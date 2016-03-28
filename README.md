@@ -4,10 +4,12 @@ IRC bot that runs on Modulus.io
 ## Modulus CLI installation
 
 Install Modulus CLI
-`$ npm install modulus -g`
+    
+    `$ npm install modulus -g`
 
 Sign up on Modulus
-`$ modulus signup`
+
+    `$ modulus signup`
 
 ## Modulus project deployment
 
